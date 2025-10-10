@@ -1,0 +1,1751 @@
+TicketID,Description,Category
+1,Why was extra delivery charge added?,Billing Issue
+2,Unable to update my profile in the app,Technical Problem
+3,Courier details are not updating,Order Status
+4,What are your customer care working hours?,General Query
+5,I was charged twice for my order,Billing Issue
+6,OTP is not being received for login,Technical Problem
+7,How can I track my current order?,Order Status
+8,Is there any student discount available?,General Query
+9,Transaction failed but balance deducted from my account,Billing Issue
+10,Website stuck at payment page,Technical Problem
+11,Why is my delivery date postponed?,Order Status
+12,How do I check my Flipkart SuperCoins balance?,General Query
+13,Refund initiated but not reflecting in my bank account,Billing Issue
+14,Website not loading on my laptop,Technical Problem
+15,Courier details are not updating,Order Status
+16,Can I schedule delivery at a specific time?,General Query
+17,Refund initiated but not reflecting in my bank account,Billing Issue
+18,Search function not working properly,Technical Problem
+19,Why is my delivery date postponed?,Order Status
+20,Is there any student discount available?,General Query
+21,I was charged twice for my order,Billing Issue
+22,Unable to update my profile in the app,Technical Problem
+23,Courier details are not updating,Order Status
+24,What are your customer care working hours?,General Query
+25,Cashback not credited to my wallet,Billing Issue
+26,Search function not working properly,Technical Problem
+27,Estimated delivery keeps changing,Order Status
+28,Do you offer gift wrapping service?,General Query
+29,Payment gateway error during checkout,Billing Issue
+30,App shows error while placing order,Technical Problem
+31,My tracking ID shows delivered but I did not get the package,Order Status
+32,How do I change my registered phone number?,General Query
+33,My EMI payment failed but money was debited,Billing Issue
+34,Unable to update my profile in the app,Technical Problem
+35,Courier details are not updating,Order Status
+36,Do you offer gift wrapping service?,General Query
+37,Cashback not credited to my wallet,Billing Issue
+38,Cart is not updating when I add items,Technical Problem
+39,When will my shoes be shipped?,Order Status
+40,What are your customer care working hours?,General Query
+41,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+42,App shows error while placing order,Technical Problem
+43,How can I track my current order?,Order Status
+44,Do you deliver to small towns in Tamil Nadu?,General Query
+45,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+46,OTP is not being received for login,Technical Problem
+47,Where is my mobile order? It is delayed,Order Status
+48,What is Flipkart Plus membership?,General Query
+49,I was charged twice for my order,Billing Issue
+50,App shows error while placing order,Technical Problem
+51,Courier details are not updating,Order Status
+52,Do you provide installation service for appliances?,General Query
+53,My EMI payment failed but money was debited,Billing Issue
+54,OTP is not being received for login,Technical Problem
+55,Where is my mobile order? It is delayed,Order Status
+56,Do you deliver to small towns in Tamil Nadu?,General Query
+57,Transaction failed but balance deducted from my account,Billing Issue
+58,Login page keeps refreshing automatically,Technical Problem
+59,Package is in transit for too long,Order Status
+60,How do I check my Flipkart SuperCoins balance?,General Query
+61,Payment deducted but order not confirmed,Billing Issue
+62,The Flipkart app crashes on checkout,Technical Problem
+63,Order stuck at warehouse for 3 days,Order Status
+64,How do I change my registered phone number?,General Query
+65,My EMI payment failed but money was debited,Billing Issue
+66,Cart is not updating when I add items,Technical Problem
+67,When will my shoes be shipped?,Order Status
+68,Do you deliver to small towns in Tamil Nadu?,General Query
+69,Transaction failed but balance deducted from my account,Billing Issue
+70,Unable to update my profile in the app,Technical Problem
+71,Order stuck at warehouse for 3 days,Order Status
+72,Can I schedule delivery at a specific time?,General Query
+73,Payment deducted but order not confirmed,Billing Issue
+74,I cannot login with my mobile number,Technical Problem
+75,Where is my mobile order? It is delayed,Order Status
+76,What is Flipkart Plus membership?,General Query
+77,Refund initiated but not reflecting in my bank account,Billing Issue
+78,Website stuck at payment page,Technical Problem
+79,Order stuck at warehouse for 3 days,Order Status
+80,How do I change my registered phone number?,General Query
+81,Payment gateway error during checkout,Billing Issue
+82,App shows error while placing order,Technical Problem
+83,Delivery agent marked order delivered but I did not receive it,Order Status
+84,Do you provide installation service for appliances?,General Query
+85,Why was extra delivery charge added?,Billing Issue
+86,I cannot login with my mobile number,Technical Problem
+87,Where is my mobile order? It is delayed,Order Status
+88,How do I change my registered phone number?,General Query
+89,Transaction failed but balance deducted from my account,Billing Issue
+90,I cannot login with my mobile number,Technical Problem
+91,Order stuck at warehouse for 3 days,Order Status
+92,Do you provide installation service for appliances?,General Query
+93,Transaction failed but balance deducted from my account,Billing Issue
+94,I cannot login with my mobile number,Technical Problem
+95,When will my shoes be shipped?,Order Status
+96,Is there any student discount available?,General Query
+97,Payment deducted but order not confirmed,Billing Issue
+98,Website stuck at payment page,Technical Problem
+99,Estimated delivery keeps changing,Order Status
+100,Do you offer gift wrapping service?,General Query
+101,My EMI payment failed but money was debited,Billing Issue
+102,App shows error while placing order,Technical Problem
+103,Delivery agent marked order delivered but I did not receive it,Order Status
+104,How do I change my registered phone number?,General Query
+105,My EMI payment failed but money was debited,Billing Issue
+106,Website not loading on my laptop,Technical Problem
+107,How can I track my current order?,Order Status
+108,Is there any student discount available?,General Query
+109,Payment gateway error during checkout,Billing Issue
+110,Website not loading on my laptop,Technical Problem
+111,Estimated delivery keeps changing,Order Status
+112,What is Flipkart Plus membership?,General Query
+113,My EMI payment failed but money was debited,Billing Issue
+114,App shows error while placing order,Technical Problem
+115,Delivery agent marked order delivered but I did not receive it,Order Status
+116,Do you deliver to small towns in Tamil Nadu?,General Query
+117,Refund initiated but not reflecting in my bank account,Billing Issue
+118,I cannot login with my mobile number,Technical Problem
+119,Why is my delivery date postponed?,Order Status
+120,What is Flipkart Plus membership?,General Query
+121,Transaction failed but balance deducted from my account,Billing Issue
+122,App shows error while placing order,Technical Problem
+123,Package is in transit for too long,Order Status
+124,Do you provide installation service for appliances?,General Query
+125,Transaction failed but balance deducted from my account,Billing Issue
+126,Website stuck at payment page,Technical Problem
+127,Where is my mobile order? It is delayed,Order Status
+128,Do you provide installation service for appliances?,General Query
+129,Refund initiated but not reflecting in my bank account,Billing Issue
+130,Unable to update my profile in the app,Technical Problem
+131,Estimated delivery keeps changing,Order Status
+132,How do I change my registered phone number?,General Query
+133,Payment gateway error during checkout,Billing Issue
+134,Website not loading on my laptop,Technical Problem
+135,Estimated delivery keeps changing,Order Status
+136,How can I become a Flipkart Plus member?,General Query
+137,Why was extra delivery charge added?,Billing Issue
+138,Login page keeps refreshing automatically,Technical Problem
+139,Delivery agent marked order delivered but I did not receive it,Order Status
+140,Do you provide installation service for appliances?,General Query
+141,Transaction failed but balance deducted from my account,Billing Issue
+142,Cart is not updating when I add items,Technical Problem
+143,Package is in transit for too long,Order Status
+144,Do you provide installation service for appliances?,General Query
+145,I was charged twice for my order,Billing Issue
+146,Website not loading on my laptop,Technical Problem
+147,My tracking ID shows delivered but I did not get the package,Order Status
+148,How do I change my registered phone number?,General Query
+149,Refund not yet received for cancelled product,Billing Issue
+150,Website not loading on my laptop,Technical Problem
+151,Order stuck at warehouse for 3 days,Order Status
+152,How do I change my registered phone number?,General Query
+153,Cashback not credited to my wallet,Billing Issue
+154,Unable to update my profile in the app,Technical Problem
+155,Order stuck at warehouse for 3 days,Order Status
+156,How do I change my registered phone number?,General Query
+157,Payment gateway error during checkout,Billing Issue
+158,App shows error while placing order,Technical Problem
+159,Where is my mobile order? It is delayed,Order Status
+160,How can I become a Flipkart Plus member?,General Query
+161,My EMI payment failed but money was debited,Billing Issue
+162,Website not loading on my laptop,Technical Problem
+163,Courier details are not updating,Order Status
+164,How do I check my Flipkart SuperCoins balance?,General Query
+165,My EMI payment failed but money was debited,Billing Issue
+166,Cart is not updating when I add items,Technical Problem
+167,My tracking ID shows delivered but I did not get the package,Order Status
+168,What is Flipkart Plus membership?,General Query
+169,My EMI payment failed but money was debited,Billing Issue
+170,Cart is not updating when I add items,Technical Problem
+171,Delivery agent marked order delivered but I did not receive it,Order Status
+172,Do you offer gift wrapping service?,General Query
+173,Payment gateway error during checkout,Billing Issue
+174,App shows error while placing order,Technical Problem
+175,Courier details are not updating,Order Status
+176,Do you deliver to small towns in Tamil Nadu?,General Query
+177,Payment deducted but order not confirmed,Billing Issue
+178,Unable to update my profile in the app,Technical Problem
+179,Estimated delivery keeps changing,Order Status
+180,What is Flipkart Plus membership?,General Query
+181,Cashback not credited to my wallet,Billing Issue
+182,Search function not working properly,Technical Problem
+183,Where is my mobile order? It is delayed,Order Status
+184,What are your customer care working hours?,General Query
+185,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+186,Website stuck at payment page,Technical Problem
+187,Why is my delivery date postponed?,Order Status
+188,Do you deliver to small towns in Tamil Nadu?,General Query
+189,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+190,App shows error while placing order,Technical Problem
+191,My tracking ID shows delivered but I did not get the package,Order Status
+192,How do I change my registered phone number?,General Query
+193,Transaction failed but balance deducted from my account,Billing Issue
+194,The Flipkart app crashes on checkout,Technical Problem
+195,Where is my mobile order? It is delayed,Order Status
+196,Is there any student discount available?,General Query
+197,Why was extra delivery charge added?,Billing Issue
+198,The Flipkart app crashes on checkout,Technical Problem
+199,Why is my delivery date postponed?,Order Status
+200,What are your customer care working hours?,General Query
+201,Transaction failed but balance deducted from my account,Billing Issue
+202,I cannot login with my mobile number,Technical Problem
+203,My tracking ID shows delivered but I did not get the package,Order Status
+204,Do you offer gift wrapping service?,General Query
+205,Transaction failed but balance deducted from my account,Billing Issue
+206,Cart is not updating when I add items,Technical Problem
+207,Package is in transit for too long,Order Status
+208,How do I check my Flipkart SuperCoins balance?,General Query
+209,Why was extra delivery charge added?,Billing Issue
+210,Cart is not updating when I add items,Technical Problem
+211,Delivery agent marked order delivered but I did not receive it,Order Status
+212,How do I check my Flipkart SuperCoins balance?,General Query
+213,Refund not yet received for cancelled product,Billing Issue
+214,OTP is not being received for login,Technical Problem
+215,Order stuck at warehouse for 3 days,Order Status
+216,Do you deliver to small towns in Tamil Nadu?,General Query
+217,Cashback not credited to my wallet,Billing Issue
+218,I cannot login with my mobile number,Technical Problem
+219,Courier details are not updating,Order Status
+220,How do I check my Flipkart SuperCoins balance?,General Query
+221,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+222,Website not loading on my laptop,Technical Problem
+223,Courier details are not updating,Order Status
+224,Is there any student discount available?,General Query
+225,Refund initiated but not reflecting in my bank account,Billing Issue
+226,Cart is not updating when I add items,Technical Problem
+227,My tracking ID shows delivered but I did not get the package,Order Status
+228,How do I check my Flipkart SuperCoins balance?,General Query
+229,My EMI payment failed but money was debited,Billing Issue
+230,Cart is not updating when I add items,Technical Problem
+231,My tracking ID shows delivered but I did not get the package,Order Status
+232,Do you provide installation service for appliances?,General Query
+233,My EMI payment failed but money was debited,Billing Issue
+234,App shows error while placing order,Technical Problem
+235,Package is in transit for too long,Order Status
+236,What are your customer care working hours?,General Query
+237,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+238,Login page keeps refreshing automatically,Technical Problem
+239,Where is my mobile order? It is delayed,Order Status
+240,Can I schedule delivery at a specific time?,General Query
+241,Refund not yet received for cancelled product,Billing Issue
+242,I cannot login with my mobile number,Technical Problem
+243,Estimated delivery keeps changing,Order Status
+244,Do you provide installation service for appliances?,General Query
+245,I was charged twice for my order,Billing Issue
+246,Website not loading on my laptop,Technical Problem
+247,Estimated delivery keeps changing,Order Status
+248,What is Flipkart Plus membership?,General Query
+249,My EMI payment failed but money was debited,Billing Issue
+250,Login page keeps refreshing automatically,Technical Problem
+251,Why is my delivery date postponed?,Order Status
+252,Do you offer gift wrapping service?,General Query
+253,My EMI payment failed but money was debited,Billing Issue
+254,Cart is not updating when I add items,Technical Problem
+255,Package is in transit for too long,Order Status
+256,Do you deliver to small towns in Tamil Nadu?,General Query
+257,My EMI payment failed but money was debited,Billing Issue
+258,Website stuck at payment page,Technical Problem
+259,Courier details are not updating,Order Status
+260,Do you deliver to small towns in Tamil Nadu?,General Query
+261,I was charged twice for my order,Billing Issue
+262,Website not loading on my laptop,Technical Problem
+263,My tracking ID shows delivered but I did not get the package,Order Status
+264,Do you offer gift wrapping service?,General Query
+265,Refund initiated but not reflecting in my bank account,Billing Issue
+266,Login page keeps refreshing automatically,Technical Problem
+267,Order stuck at warehouse for 3 days,Order Status
+268,Do you deliver to small towns in Tamil Nadu?,General Query
+269,My EMI payment failed but money was debited,Billing Issue
+270,Login page keeps refreshing automatically,Technical Problem
+271,Package is in transit for too long,Order Status
+272,Do you provide installation service for appliances?,General Query
+273,Why was extra delivery charge added?,Billing Issue
+274,Cart is not updating when I add items,Technical Problem
+275,Package is in transit for too long,Order Status
+276,What are your customer care working hours?,General Query
+277,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+278,Website not loading on my laptop,Technical Problem
+279,My tracking ID shows delivered but I did not get the package,Order Status
+280,How do I change my registered phone number?,General Query
+281,I was charged twice for my order,Billing Issue
+282,Login page keeps refreshing automatically,Technical Problem
+283,Estimated delivery keeps changing,Order Status
+284,Do you deliver to small towns in Tamil Nadu?,General Query
+285,My EMI payment failed but money was debited,Billing Issue
+286,Search function not working properly,Technical Problem
+287,Why is my delivery date postponed?,Order Status
+288,What is Flipkart Plus membership?,General Query
+289,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+290,The Flipkart app crashes on checkout,Technical Problem
+291,How can I track my current order?,Order Status
+292,Is there any student discount available?,General Query
+293,Transaction failed but balance deducted from my account,Billing Issue
+294,Website not loading on my laptop,Technical Problem
+295,My tracking ID shows delivered but I did not get the package,Order Status
+296,Is there any student discount available?,General Query
+297,Why was extra delivery charge added?,Billing Issue
+298,Cart is not updating when I add items,Technical Problem
+299,Package is in transit for too long,Order Status
+300,How can I become a Flipkart Plus member?,General Query
+301,Transaction failed but balance deducted from my account,Billing Issue
+302,The Flipkart app crashes on checkout,Technical Problem
+303,Courier details are not updating,Order Status
+304,Is there any student discount available?,General Query
+305,Cashback not credited to my wallet,Billing Issue
+306,Search function not working properly,Technical Problem
+307,How can I track my current order?,Order Status
+308,How do I change my registered phone number?,General Query
+309,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+310,Website not loading on my laptop,Technical Problem
+311,My tracking ID shows delivered but I did not get the package,Order Status
+312,Can I schedule delivery at a specific time?,General Query
+313,I was charged twice for my order,Billing Issue
+314,Unable to update my profile in the app,Technical Problem
+315,Delivery agent marked order delivered but I did not receive it,Order Status
+316,How can I become a Flipkart Plus member?,General Query
+317,Payment gateway error during checkout,Billing Issue
+318,Website stuck at payment page,Technical Problem
+319,When will my shoes be shipped?,Order Status
+320,Is there any student discount available?,General Query
+321,I was charged twice for my order,Billing Issue
+322,Unable to update my profile in the app,Technical Problem
+323,Package is in transit for too long,Order Status
+324,Do you provide installation service for appliances?,General Query
+325,My EMI payment failed but money was debited,Billing Issue
+326,Website not loading on my laptop,Technical Problem
+327,Where is my mobile order? It is delayed,Order Status
+328,How do I change my registered phone number?,General Query
+329,Payment gateway error during checkout,Billing Issue
+330,Search function not working properly,Technical Problem
+331,How can I track my current order?,Order Status
+332,Do you offer gift wrapping service?,General Query
+333,Payment deducted but order not confirmed,Billing Issue
+334,I cannot login with my mobile number,Technical Problem
+335,Courier details are not updating,Order Status
+336,Is there any student discount available?,General Query
+337,My EMI payment failed but money was debited,Billing Issue
+338,Unable to update my profile in the app,Technical Problem
+339,When will my shoes be shipped?,Order Status
+340,Do you offer gift wrapping service?,General Query
+341,Why was extra delivery charge added?,Billing Issue
+342,The Flipkart app crashes on checkout,Technical Problem
+343,My tracking ID shows delivered but I did not get the package,Order Status
+344,Do you provide installation service for appliances?,General Query
+345,Why was extra delivery charge added?,Billing Issue
+346,Website not loading on my laptop,Technical Problem
+347,My tracking ID shows delivered but I did not get the package,Order Status
+348,Do you offer gift wrapping service?,General Query
+349,My EMI payment failed but money was debited,Billing Issue
+350,App shows error while placing order,Technical Problem
+351,How can I track my current order?,Order Status
+352,Can I schedule delivery at a specific time?,General Query
+353,Cashback not credited to my wallet,Billing Issue
+354,Cart is not updating when I add items,Technical Problem
+355,My tracking ID shows delivered but I did not get the package,Order Status
+356,How do I check my Flipkart SuperCoins balance?,General Query
+357,Payment deducted but order not confirmed,Billing Issue
+358,Login page keeps refreshing automatically,Technical Problem
+359,My tracking ID shows delivered but I did not get the package,Order Status
+360,Is there any student discount available?,General Query
+361,Payment deducted but order not confirmed,Billing Issue
+362,OTP is not being received for login,Technical Problem
+363,Why is my delivery date postponed?,Order Status
+364,Is there any student discount available?,General Query
+365,I was charged twice for my order,Billing Issue
+366,The Flipkart app crashes on checkout,Technical Problem
+367,Estimated delivery keeps changing,Order Status
+368,Can I schedule delivery at a specific time?,General Query
+369,Payment deducted but order not confirmed,Billing Issue
+370,Cart is not updating when I add items,Technical Problem
+371,Why is my delivery date postponed?,Order Status
+372,How can I become a Flipkart Plus member?,General Query
+373,I was charged twice for my order,Billing Issue
+374,Website not loading on my laptop,Technical Problem
+375,Why is my delivery date postponed?,Order Status
+376,What are your customer care working hours?,General Query
+377,My EMI payment failed but money was debited,Billing Issue
+378,Cart is not updating when I add items,Technical Problem
+379,Where is my mobile order? It is delayed,Order Status
+380,Do you deliver to small towns in Tamil Nadu?,General Query
+381,Cashback not credited to my wallet,Billing Issue
+382,App shows error while placing order,Technical Problem
+383,Order stuck at warehouse for 3 days,Order Status
+384,What is Flipkart Plus membership?,General Query
+385,Why was extra delivery charge added?,Billing Issue
+386,Unable to update my profile in the app,Technical Problem
+387,My tracking ID shows delivered but I did not get the package,Order Status
+388,Is there any student discount available?,General Query
+389,Why was extra delivery charge added?,Billing Issue
+390,Cart is not updating when I add items,Technical Problem
+391,Where is my mobile order? It is delayed,Order Status
+392,Do you deliver to small towns in Tamil Nadu?,General Query
+393,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+394,I cannot login with my mobile number,Technical Problem
+395,Package is in transit for too long,Order Status
+396,What is Flipkart Plus membership?,General Query
+397,Payment gateway error during checkout,Billing Issue
+398,Website stuck at payment page,Technical Problem
+399,Courier details are not updating,Order Status
+400,How do I change my registered phone number?,General Query
+401,Why was extra delivery charge added?,Billing Issue
+402,Login page keeps refreshing automatically,Technical Problem
+403,Why is my delivery date postponed?,Order Status
+404,Is there any student discount available?,General Query
+405,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+406,Website not loading on my laptop,Technical Problem
+407,Delivery agent marked order delivered but I did not receive it,Order Status
+408,Do you provide installation service for appliances?,General Query
+409,Refund initiated but not reflecting in my bank account,Billing Issue
+410,Login page keeps refreshing automatically,Technical Problem
+411,Delivery agent marked order delivered but I did not receive it,Order Status
+412,Do you provide installation service for appliances?,General Query
+413,Why was extra delivery charge added?,Billing Issue
+414,OTP is not being received for login,Technical Problem
+415,How can I track my current order?,Order Status
+416,Can I schedule delivery at a specific time?,General Query
+417,Refund initiated but not reflecting in my bank account,Billing Issue
+418,Website stuck at payment page,Technical Problem
+419,Package is in transit for too long,Order Status
+420,What is Flipkart Plus membership?,General Query
+421,Transaction failed but balance deducted from my account,Billing Issue
+422,Website stuck at payment page,Technical Problem
+423,My tracking ID shows delivered but I did not get the package,Order Status
+424,How do I change my registered phone number?,General Query
+425,Payment deducted but order not confirmed,Billing Issue
+426,Unable to update my profile in the app,Technical Problem
+427,My tracking ID shows delivered but I did not get the package,Order Status
+428,Do you offer gift wrapping service?,General Query
+429,Refund not yet received for cancelled product,Billing Issue
+430,Website not loading on my laptop,Technical Problem
+431,Estimated delivery keeps changing,Order Status
+432,What is Flipkart Plus membership?,General Query
+433,Cashback not credited to my wallet,Billing Issue
+434,Website stuck at payment page,Technical Problem
+435,When will my shoes be shipped?,Order Status
+436,How do I change my registered phone number?,General Query
+437,Transaction failed but balance deducted from my account,Billing Issue
+438,OTP is not being received for login,Technical Problem
+439,Why is my delivery date postponed?,Order Status
+440,Can I schedule delivery at a specific time?,General Query
+441,Refund not yet received for cancelled product,Billing Issue
+442,Unable to update my profile in the app,Technical Problem
+443,How can I track my current order?,Order Status
+444,What are your customer care working hours?,General Query
+445,I was charged twice for my order,Billing Issue
+446,OTP is not being received for login,Technical Problem
+447,Order stuck at warehouse for 3 days,Order Status
+448,How do I check my Flipkart SuperCoins balance?,General Query
+449,I was charged twice for my order,Billing Issue
+450,The Flipkart app crashes on checkout,Technical Problem
+451,Delivery agent marked order delivered but I did not receive it,Order Status
+452,How do I check my Flipkart SuperCoins balance?,General Query
+453,Cashback not credited to my wallet,Billing Issue
+454,Cart is not updating when I add items,Technical Problem
+455,Where is my mobile order? It is delayed,Order Status
+456,What are your customer care working hours?,General Query
+457,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+458,Search function not working properly,Technical Problem
+459,Why is my delivery date postponed?,Order Status
+460,What are your customer care working hours?,General Query
+461,I was charged twice for my order,Billing Issue
+462,Search function not working properly,Technical Problem
+463,Estimated delivery keeps changing,Order Status
+464,Do you provide installation service for appliances?,General Query
+465,Why was extra delivery charge added?,Billing Issue
+466,Search function not working properly,Technical Problem
+467,Estimated delivery keeps changing,Order Status
+468,How do I check my Flipkart SuperCoins balance?,General Query
+469,Payment gateway error during checkout,Billing Issue
+470,Login page keeps refreshing automatically,Technical Problem
+471,Why is my delivery date postponed?,Order Status
+472,Do you provide installation service for appliances?,General Query
+473,I was charged twice for my order,Billing Issue
+474,Website stuck at payment page,Technical Problem
+475,Where is my mobile order? It is delayed,Order Status
+476,Do you deliver to small towns in Tamil Nadu?,General Query
+477,Refund not yet received for cancelled product,Billing Issue
+478,Search function not working properly,Technical Problem
+479,How can I track my current order?,Order Status
+480,How do I check my Flipkart SuperCoins balance?,General Query
+481,Why was extra delivery charge added?,Billing Issue
+482,OTP is not being received for login,Technical Problem
+483,Estimated delivery keeps changing,Order Status
+484,What are your customer care working hours?,General Query
+485,Cashback not credited to my wallet,Billing Issue
+486,Login page keeps refreshing automatically,Technical Problem
+487,When will my shoes be shipped?,Order Status
+488,How can I become a Flipkart Plus member?,General Query
+489,Why was extra delivery charge added?,Billing Issue
+490,Unable to update my profile in the app,Technical Problem
+491,My tracking ID shows delivered but I did not get the package,Order Status
+492,What are your customer care working hours?,General Query
+493,Transaction failed but balance deducted from my account,Billing Issue
+494,OTP is not being received for login,Technical Problem
+495,Package is in transit for too long,Order Status
+496,Is there any student discount available?,General Query
+497,I was charged twice for my order,Billing Issue
+498,OTP is not being received for login,Technical Problem
+499,Where is my mobile order? It is delayed,Order Status
+500,How can I become a Flipkart Plus member?,General Query
+501,Transaction failed but balance deducted from my account,Billing Issue
+502,Cart is not updating when I add items,Technical Problem
+503,Delivery agent marked order delivered but I did not receive it,Order Status
+504,Is there any student discount available?,General Query
+505,Payment gateway error during checkout,Billing Issue
+506,OTP is not being received for login,Technical Problem
+507,My tracking ID shows delivered but I did not get the package,Order Status
+508,Do you offer gift wrapping service?,General Query
+509,Cashback not credited to my wallet,Billing Issue
+510,Website stuck at payment page,Technical Problem
+511,When will my shoes be shipped?,Order Status
+512,Do you provide installation service for appliances?,General Query
+513,My EMI payment failed but money was debited,Billing Issue
+514,Search function not working properly,Technical Problem
+515,When will my shoes be shipped?,Order Status
+516,What is Flipkart Plus membership?,General Query
+517,Transaction failed but balance deducted from my account,Billing Issue
+518,OTP is not being received for login,Technical Problem
+519,How can I track my current order?,Order Status
+520,Do you deliver to small towns in Tamil Nadu?,General Query
+521,Why was extra delivery charge added?,Billing Issue
+522,Website not loading on my laptop,Technical Problem
+523,Estimated delivery keeps changing,Order Status
+524,Do you provide installation service for appliances?,General Query
+525,Transaction failed but balance deducted from my account,Billing Issue
+526,Website stuck at payment page,Technical Problem
+527,Where is my mobile order? It is delayed,Order Status
+528,Do you offer gift wrapping service?,General Query
+529,Refund initiated but not reflecting in my bank account,Billing Issue
+530,Search function not working properly,Technical Problem
+531,When will my shoes be shipped?,Order Status
+532,How do I change my registered phone number?,General Query
+533,Refund not yet received for cancelled product,Billing Issue
+534,Login page keeps refreshing automatically,Technical Problem
+535,Why is my delivery date postponed?,Order Status
+536,How do I change my registered phone number?,General Query
+537,Transaction failed but balance deducted from my account,Billing Issue
+538,I cannot login with my mobile number,Technical Problem
+539,Package is in transit for too long,Order Status
+540,Do you deliver to small towns in Tamil Nadu?,General Query
+541,Payment deducted but order not confirmed,Billing Issue
+542,OTP is not being received for login,Technical Problem
+543,Package is in transit for too long,Order Status
+544,Do you deliver to small towns in Tamil Nadu?,General Query
+545,Refund initiated but not reflecting in my bank account,Billing Issue
+546,OTP is not being received for login,Technical Problem
+547,Order stuck at warehouse for 3 days,Order Status
+548,What is Flipkart Plus membership?,General Query
+549,Refund not yet received for cancelled product,Billing Issue
+550,Website stuck at payment page,Technical Problem
+551,When will my shoes be shipped?,Order Status
+552,Do you offer gift wrapping service?,General Query
+553,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+554,Unable to update my profile in the app,Technical Problem
+555,Courier details are not updating,Order Status
+556,Do you deliver to small towns in Tamil Nadu?,General Query
+557,Payment deducted but order not confirmed,Billing Issue
+558,Cart is not updating when I add items,Technical Problem
+559,Estimated delivery keeps changing,Order Status
+560,How do I check my Flipkart SuperCoins balance?,General Query
+561,Payment gateway error during checkout,Billing Issue
+562,App shows error while placing order,Technical Problem
+563,Package is in transit for too long,Order Status
+564,How can I become a Flipkart Plus member?,General Query
+565,Refund initiated but not reflecting in my bank account,Billing Issue
+566,Unable to update my profile in the app,Technical Problem
+567,When will my shoes be shipped?,Order Status
+568,Is there any student discount available?,General Query
+569,My EMI payment failed but money was debited,Billing Issue
+570,App shows error while placing order,Technical Problem
+571,Where is my mobile order? It is delayed,Order Status
+572,How do I change my registered phone number?,General Query
+573,I was charged twice for my order,Billing Issue
+574,Unable to update my profile in the app,Technical Problem
+575,Where is my mobile order? It is delayed,Order Status
+576,Is there any student discount available?,General Query
+577,Payment gateway error during checkout,Billing Issue
+578,Website not loading on my laptop,Technical Problem
+579,My tracking ID shows delivered but I did not get the package,Order Status
+580,How do I check my Flipkart SuperCoins balance?,General Query
+581,Payment deducted but order not confirmed,Billing Issue
+582,Login page keeps refreshing automatically,Technical Problem
+583,Where is my mobile order? It is delayed,Order Status
+584,How do I check my Flipkart SuperCoins balance?,General Query
+585,Why was extra delivery charge added?,Billing Issue
+586,The Flipkart app crashes on checkout,Technical Problem
+587,Order stuck at warehouse for 3 days,Order Status
+588,How do I change my registered phone number?,General Query
+589,Refund not yet received for cancelled product,Billing Issue
+590,Login page keeps refreshing automatically,Technical Problem
+591,Estimated delivery keeps changing,Order Status
+592,Do you provide installation service for appliances?,General Query
+593,Transaction failed but balance deducted from my account,Billing Issue
+594,I cannot login with my mobile number,Technical Problem
+595,Where is my mobile order? It is delayed,Order Status
+596,How do I change my registered phone number?,General Query
+597,I was charged twice for my order,Billing Issue
+598,The Flipkart app crashes on checkout,Technical Problem
+599,Why is my delivery date postponed?,Order Status
+600,Can I schedule delivery at a specific time?,General Query
+601,Refund initiated but not reflecting in my bank account,Billing Issue
+602,Website stuck at payment page,Technical Problem
+603,Courier details are not updating,Order Status
+604,Is there any student discount available?,General Query
+605,I was charged twice for my order,Billing Issue
+606,Unable to update my profile in the app,Technical Problem
+607,How can I track my current order?,Order Status
+608,How can I become a Flipkart Plus member?,General Query
+609,My EMI payment failed but money was debited,Billing Issue
+610,The Flipkart app crashes on checkout,Technical Problem
+611,Where is my mobile order? It is delayed,Order Status
+612,Do you deliver to small towns in Tamil Nadu?,General Query
+613,Transaction failed but balance deducted from my account,Billing Issue
+614,Website stuck at payment page,Technical Problem
+615,How can I track my current order?,Order Status
+616,How do I check my Flipkart SuperCoins balance?,General Query
+617,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+618,Cart is not updating when I add items,Technical Problem
+619,Delivery agent marked order delivered but I did not receive it,Order Status
+620,Do you provide installation service for appliances?,General Query
+621,Refund not yet received for cancelled product,Billing Issue
+622,The Flipkart app crashes on checkout,Technical Problem
+623,Order stuck at warehouse for 3 days,Order Status
+624,What is Flipkart Plus membership?,General Query
+625,Refund not yet received for cancelled product,Billing Issue
+626,App shows error while placing order,Technical Problem
+627,Why is my delivery date postponed?,Order Status
+628,How do I change my registered phone number?,General Query
+629,Payment gateway error during checkout,Billing Issue
+630,I cannot login with my mobile number,Technical Problem
+631,Where is my mobile order? It is delayed,Order Status
+632,What is Flipkart Plus membership?,General Query
+633,Why was extra delivery charge added?,Billing Issue
+634,Unable to update my profile in the app,Technical Problem
+635,Why is my delivery date postponed?,Order Status
+636,Do you offer gift wrapping service?,General Query
+637,I was charged twice for my order,Billing Issue
+638,OTP is not being received for login,Technical Problem
+639,Delivery agent marked order delivered but I did not receive it,Order Status
+640,How do I change my registered phone number?,General Query
+641,I was charged twice for my order,Billing Issue
+642,App shows error while placing order,Technical Problem
+643,Courier details are not updating,Order Status
+644,How do I check my Flipkart SuperCoins balance?,General Query
+645,My EMI payment failed but money was debited,Billing Issue
+646,App shows error while placing order,Technical Problem
+647,Estimated delivery keeps changing,Order Status
+648,How do I check my Flipkart SuperCoins balance?,General Query
+649,Payment gateway error during checkout,Billing Issue
+650,Website not loading on my laptop,Technical Problem
+651,When will my shoes be shipped?,Order Status
+652,What is Flipkart Plus membership?,General Query
+653,I was charged twice for my order,Billing Issue
+654,Website not loading on my laptop,Technical Problem
+655,Delivery agent marked order delivered but I did not receive it,Order Status
+656,What are your customer care working hours?,General Query
+657,Cashback not credited to my wallet,Billing Issue
+658,Login page keeps refreshing automatically,Technical Problem
+659,My tracking ID shows delivered but I did not get the package,Order Status
+660,How do I check my Flipkart SuperCoins balance?,General Query
+661,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+662,Cart is not updating when I add items,Technical Problem
+663,When will my shoes be shipped?,Order Status
+664,Can I schedule delivery at a specific time?,General Query
+665,Why was extra delivery charge added?,Billing Issue
+666,Search function not working properly,Technical Problem
+667,Why is my delivery date postponed?,Order Status
+668,How can I become a Flipkart Plus member?,General Query
+669,Refund initiated but not reflecting in my bank account,Billing Issue
+670,Search function not working properly,Technical Problem
+671,Estimated delivery keeps changing,Order Status
+672,Do you provide installation service for appliances?,General Query
+673,Refund initiated but not reflecting in my bank account,Billing Issue
+674,Unable to update my profile in the app,Technical Problem
+675,Why is my delivery date postponed?,Order Status
+676,What are your customer care working hours?,General Query
+677,Payment gateway error during checkout,Billing Issue
+678,Search function not working properly,Technical Problem
+679,Package is in transit for too long,Order Status
+680,Do you deliver to small towns in Tamil Nadu?,General Query
+681,Refund initiated but not reflecting in my bank account,Billing Issue
+682,Unable to update my profile in the app,Technical Problem
+683,Estimated delivery keeps changing,Order Status
+684,How do I change my registered phone number?,General Query
+685,Refund initiated but not reflecting in my bank account,Billing Issue
+686,I cannot login with my mobile number,Technical Problem
+687,Package is in transit for too long,Order Status
+688,How do I change my registered phone number?,General Query
+689,Cashback not credited to my wallet,Billing Issue
+690,Website not loading on my laptop,Technical Problem
+691,Courier details are not updating,Order Status
+692,Do you provide installation service for appliances?,General Query
+693,Why was extra delivery charge added?,Billing Issue
+694,Cart is not updating when I add items,Technical Problem
+695,My tracking ID shows delivered but I did not get the package,Order Status
+696,What is Flipkart Plus membership?,General Query
+697,Refund initiated but not reflecting in my bank account,Billing Issue
+698,Search function not working properly,Technical Problem
+699,When will my shoes be shipped?,Order Status
+700,How do I check my Flipkart SuperCoins balance?,General Query
+701,Why was extra delivery charge added?,Billing Issue
+702,Unable to update my profile in the app,Technical Problem
+703,Where is my mobile order? It is delayed,Order Status
+704,What is Flipkart Plus membership?,General Query
+705,Why was extra delivery charge added?,Billing Issue
+706,Search function not working properly,Technical Problem
+707,Package is in transit for too long,Order Status
+708,Can I schedule delivery at a specific time?,General Query
+709,My EMI payment failed but money was debited,Billing Issue
+710,Search function not working properly,Technical Problem
+711,Delivery agent marked order delivered but I did not receive it,Order Status
+712,Do you provide installation service for appliances?,General Query
+713,My EMI payment failed but money was debited,Billing Issue
+714,Search function not working properly,Technical Problem
+715,My tracking ID shows delivered but I did not get the package,Order Status
+716,What is Flipkart Plus membership?,General Query
+717,Transaction failed but balance deducted from my account,Billing Issue
+718,The Flipkart app crashes on checkout,Technical Problem
+719,Package is in transit for too long,Order Status
+720,How do I check my Flipkart SuperCoins balance?,General Query
+721,Payment gateway error during checkout,Billing Issue
+722,Website stuck at payment page,Technical Problem
+723,Estimated delivery keeps changing,Order Status
+724,What are your customer care working hours?,General Query
+725,Payment deducted but order not confirmed,Billing Issue
+726,Website not loading on my laptop,Technical Problem
+727,Why is my delivery date postponed?,Order Status
+728,What is Flipkart Plus membership?,General Query
+729,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+730,I cannot login with my mobile number,Technical Problem
+731,Where is my mobile order? It is delayed,Order Status
+732,How do I change my registered phone number?,General Query
+733,Refund initiated but not reflecting in my bank account,Billing Issue
+734,App shows error while placing order,Technical Problem
+735,My tracking ID shows delivered but I did not get the package,Order Status
+736,Do you offer gift wrapping service?,General Query
+737,Payment deducted but order not confirmed,Billing Issue
+738,I cannot login with my mobile number,Technical Problem
+739,My tracking ID shows delivered but I did not get the package,Order Status
+740,Do you deliver to small towns in Tamil Nadu?,General Query
+741,Payment gateway error during checkout,Billing Issue
+742,Unable to update my profile in the app,Technical Problem
+743,Order stuck at warehouse for 3 days,Order Status
+744,Is there any student discount available?,General Query
+745,Refund not yet received for cancelled product,Billing Issue
+746,I cannot login with my mobile number,Technical Problem
+747,Delivery agent marked order delivered but I did not receive it,Order Status
+748,Do you deliver to small towns in Tamil Nadu?,General Query
+749,Payment deducted but order not confirmed,Billing Issue
+750,Website stuck at payment page,Technical Problem
+751,Order stuck at warehouse for 3 days,Order Status
+752,How can I become a Flipkart Plus member?,General Query
+753,Transaction failed but balance deducted from my account,Billing Issue
+754,Website stuck at payment page,Technical Problem
+755,Order stuck at warehouse for 3 days,Order Status
+756,What are your customer care working hours?,General Query
+757,Payment deducted but order not confirmed,Billing Issue
+758,Login page keeps refreshing automatically,Technical Problem
+759,Package is in transit for too long,Order Status
+760,How can I become a Flipkart Plus member?,General Query
+761,Transaction failed but balance deducted from my account,Billing Issue
+762,Unable to update my profile in the app,Technical Problem
+763,Estimated delivery keeps changing,Order Status
+764,What are your customer care working hours?,General Query
+765,I was charged twice for my order,Billing Issue
+766,I cannot login with my mobile number,Technical Problem
+767,My tracking ID shows delivered but I did not get the package,Order Status
+768,Can I schedule delivery at a specific time?,General Query
+769,Cashback not credited to my wallet,Billing Issue
+770,OTP is not being received for login,Technical Problem
+771,Estimated delivery keeps changing,Order Status
+772,How can I become a Flipkart Plus member?,General Query
+773,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+774,Cart is not updating when I add items,Technical Problem
+775,Courier details are not updating,Order Status
+776,Do you offer gift wrapping service?,General Query
+777,I was charged twice for my order,Billing Issue
+778,Website not loading on my laptop,Technical Problem
+779,Package is in transit for too long,Order Status
+780,Can I schedule delivery at a specific time?,General Query
+781,Transaction failed but balance deducted from my account,Billing Issue
+782,The Flipkart app crashes on checkout,Technical Problem
+783,Delivery agent marked order delivered but I did not receive it,Order Status
+784,Do you provide installation service for appliances?,General Query
+785,I was charged twice for my order,Billing Issue
+786,Cart is not updating when I add items,Technical Problem
+787,When will my shoes be shipped?,Order Status
+788,Do you provide installation service for appliances?,General Query
+789,Refund not yet received for cancelled product,Billing Issue
+790,The Flipkart app crashes on checkout,Technical Problem
+791,Order stuck at warehouse for 3 days,Order Status
+792,How can I become a Flipkart Plus member?,General Query
+793,Refund not yet received for cancelled product,Billing Issue
+794,Cart is not updating when I add items,Technical Problem
+795,Why is my delivery date postponed?,Order Status
+796,How do I change my registered phone number?,General Query
+797,My EMI payment failed but money was debited,Billing Issue
+798,Cart is not updating when I add items,Technical Problem
+799,Delivery agent marked order delivered but I did not receive it,Order Status
+800,How do I check my Flipkart SuperCoins balance?,General Query
+801,Payment deducted but order not confirmed,Billing Issue
+802,OTP is not being received for login,Technical Problem
+803,Courier details are not updating,Order Status
+804,What are your customer care working hours?,General Query
+805,Why was extra delivery charge added?,Billing Issue
+806,OTP is not being received for login,Technical Problem
+807,Courier details are not updating,Order Status
+808,Can I schedule delivery at a specific time?,General Query
+809,Refund not yet received for cancelled product,Billing Issue
+810,Website stuck at payment page,Technical Problem
+811,Package is in transit for too long,Order Status
+812,Do you provide installation service for appliances?,General Query
+813,Cashback not credited to my wallet,Billing Issue
+814,App shows error while placing order,Technical Problem
+815,Delivery agent marked order delivered but I did not receive it,Order Status
+816,Do you provide installation service for appliances?,General Query
+817,Refund initiated but not reflecting in my bank account,Billing Issue
+818,OTP is not being received for login,Technical Problem
+819,How can I track my current order?,Order Status
+820,Can I schedule delivery at a specific time?,General Query
+821,Cashback not credited to my wallet,Billing Issue
+822,App shows error while placing order,Technical Problem
+823,Estimated delivery keeps changing,Order Status
+824,What are your customer care working hours?,General Query
+825,My EMI payment failed but money was debited,Billing Issue
+826,I cannot login with my mobile number,Technical Problem
+827,Package is in transit for too long,Order Status
+828,Do you deliver to small towns in Tamil Nadu?,General Query
+829,Why was extra delivery charge added?,Billing Issue
+830,Website not loading on my laptop,Technical Problem
+831,Delivery agent marked order delivered but I did not receive it,Order Status
+832,Do you offer gift wrapping service?,General Query
+833,Payment gateway error during checkout,Billing Issue
+834,The Flipkart app crashes on checkout,Technical Problem
+835,Where is my mobile order? It is delayed,Order Status
+836,How do I check my Flipkart SuperCoins balance?,General Query
+837,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+838,Unable to update my profile in the app,Technical Problem
+839,How can I track my current order?,Order Status
+840,Do you provide installation service for appliances?,General Query
+841,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+842,Login page keeps refreshing automatically,Technical Problem
+843,Order stuck at warehouse for 3 days,Order Status
+844,What is Flipkart Plus membership?,General Query
+845,Cashback not credited to my wallet,Billing Issue
+846,Cart is not updating when I add items,Technical Problem
+847,Why is my delivery date postponed?,Order Status
+848,Do you provide installation service for appliances?,General Query
+849,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+850,The Flipkart app crashes on checkout,Technical Problem
+851,Courier details are not updating,Order Status
+852,Do you provide installation service for appliances?,General Query
+853,My EMI payment failed but money was debited,Billing Issue
+854,Cart is not updating when I add items,Technical Problem
+855,How can I track my current order?,Order Status
+856,Is there any student discount available?,General Query
+857,Payment deducted but order not confirmed,Billing Issue
+858,Search function not working properly,Technical Problem
+859,Estimated delivery keeps changing,Order Status
+860,Is there any student discount available?,General Query
+861,Refund initiated but not reflecting in my bank account,Billing Issue
+862,Cart is not updating when I add items,Technical Problem
+863,Delivery agent marked order delivered but I did not receive it,Order Status
+864,Can I schedule delivery at a specific time?,General Query
+865,Payment deducted but order not confirmed,Billing Issue
+866,Website stuck at payment page,Technical Problem
+867,How can I track my current order?,Order Status
+868,Do you provide installation service for appliances?,General Query
+869,I was charged twice for my order,Billing Issue
+870,Search function not working properly,Technical Problem
+871,Courier details are not updating,Order Status
+872,Do you provide installation service for appliances?,General Query
+873,Payment gateway error during checkout,Billing Issue
+874,Website not loading on my laptop,Technical Problem
+875,Why is my delivery date postponed?,Order Status
+876,Do you provide installation service for appliances?,General Query
+877,Payment deducted but order not confirmed,Billing Issue
+878,Search function not working properly,Technical Problem
+879,Package is in transit for too long,Order Status
+880,Do you provide installation service for appliances?,General Query
+881,Refund initiated but not reflecting in my bank account,Billing Issue
+882,I cannot login with my mobile number,Technical Problem
+883,Why is my delivery date postponed?,Order Status
+884,Can I schedule delivery at a specific time?,General Query
+885,Payment deducted but order not confirmed,Billing Issue
+886,Website stuck at payment page,Technical Problem
+887,Estimated delivery keeps changing,Order Status
+888,Can I schedule delivery at a specific time?,General Query
+889,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+890,Website not loading on my laptop,Technical Problem
+891,Where is my mobile order? It is delayed,Order Status
+892,Do you deliver to small towns in Tamil Nadu?,General Query
+893,Why was extra delivery charge added?,Billing Issue
+894,Unable to update my profile in the app,Technical Problem
+895,How can I track my current order?,Order Status
+896,Do you deliver to small towns in Tamil Nadu?,General Query
+897,I was charged twice for my order,Billing Issue
+898,Cart is not updating when I add items,Technical Problem
+899,How can I track my current order?,Order Status
+900,What is Flipkart Plus membership?,General Query
+901,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+902,Search function not working properly,Technical Problem
+903,How can I track my current order?,Order Status
+904,Do you provide installation service for appliances?,General Query
+905,My EMI payment failed but money was debited,Billing Issue
+906,The Flipkart app crashes on checkout,Technical Problem
+907,How can I track my current order?,Order Status
+908,Do you deliver to small towns in Tamil Nadu?,General Query
+909,Payment gateway error during checkout,Billing Issue
+910,OTP is not being received for login,Technical Problem
+911,Delivery agent marked order delivered but I did not receive it,Order Status
+912,Can I schedule delivery at a specific time?,General Query
+913,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+914,Search function not working properly,Technical Problem
+915,My tracking ID shows delivered but I did not get the package,Order Status
+916,What is Flipkart Plus membership?,General Query
+917,Cashback not credited to my wallet,Billing Issue
+918,OTP is not being received for login,Technical Problem
+919,When will my shoes be shipped?,Order Status
+920,How do I change my registered phone number?,General Query
+921,Refund not yet received for cancelled product,Billing Issue
+922,OTP is not being received for login,Technical Problem
+923,Courier details are not updating,Order Status
+924,What is Flipkart Plus membership?,General Query
+925,My EMI payment failed but money was debited,Billing Issue
+926,Cart is not updating when I add items,Technical Problem
+927,My tracking ID shows delivered but I did not get the package,Order Status
+928,How do I check my Flipkart SuperCoins balance?,General Query
+929,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+930,OTP is not being received for login,Technical Problem
+931,When will my shoes be shipped?,Order Status
+932,Do you provide installation service for appliances?,General Query
+933,My EMI payment failed but money was debited,Billing Issue
+934,I cannot login with my mobile number,Technical Problem
+935,Where is my mobile order? It is delayed,Order Status
+936,Do you deliver to small towns in Tamil Nadu?,General Query
+937,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+938,I cannot login with my mobile number,Technical Problem
+939,My tracking ID shows delivered but I did not get the package,Order Status
+940,Do you deliver to small towns in Tamil Nadu?,General Query
+941,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+942,Search function not working properly,Technical Problem
+943,Courier details are not updating,Order Status
+944,Do you offer gift wrapping service?,General Query
+945,Payment gateway error during checkout,Billing Issue
+946,Cart is not updating when I add items,Technical Problem
+947,Order stuck at warehouse for 3 days,Order Status
+948,How can I become a Flipkart Plus member?,General Query
+949,Transaction failed but balance deducted from my account,Billing Issue
+950,Search function not working properly,Technical Problem
+951,Package is in transit for too long,Order Status
+952,Do you provide installation service for appliances?,General Query
+953,Why was extra delivery charge added?,Billing Issue
+954,App shows error while placing order,Technical Problem
+955,Delivery agent marked order delivered but I did not receive it,Order Status
+956,How can I become a Flipkart Plus member?,General Query
+957,My EMI payment failed but money was debited,Billing Issue
+958,OTP is not being received for login,Technical Problem
+959,Why is my delivery date postponed?,Order Status
+960,What are your customer care working hours?,General Query
+961,Refund initiated but not reflecting in my bank account,Billing Issue
+962,Login page keeps refreshing automatically,Technical Problem
+963,Delivery agent marked order delivered but I did not receive it,Order Status
+964,Can I schedule delivery at a specific time?,General Query
+965,My EMI payment failed but money was debited,Billing Issue
+966,Search function not working properly,Technical Problem
+967,Where is my mobile order? It is delayed,Order Status
+968,What are your customer care working hours?,General Query
+969,Cashback not credited to my wallet,Billing Issue
+970,App shows error while placing order,Technical Problem
+971,Estimated delivery keeps changing,Order Status
+972,Do you provide installation service for appliances?,General Query
+973,Payment deducted but order not confirmed,Billing Issue
+974,App shows error while placing order,Technical Problem
+975,Why is my delivery date postponed?,Order Status
+976,Is there any student discount available?,General Query
+977,Payment gateway error during checkout,Billing Issue
+978,The Flipkart app crashes on checkout,Technical Problem
+979,Package is in transit for too long,Order Status
+980,Do you deliver to small towns in Tamil Nadu?,General Query
+981,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+982,Cart is not updating when I add items,Technical Problem
+983,My tracking ID shows delivered but I did not get the package,Order Status
+984,What are your customer care working hours?,General Query
+985,Why am I seeing wrong bill amount in my invoice?,Billing Issue
+986,Website not loading on my laptop,Technical Problem
+987,Where is my mobile order? It is delayed,Order Status
+988,How can I become a Flipkart Plus member?,General Query
+989,I was charged twice for my order,Billing Issue
+990,Website stuck at payment page,Technical Problem
+991,My tracking ID shows delivered but I did not get the package,Order Status
+992,How can I become a Flipkart Plus member?,General Query
+993,Refund initiated but not reflecting in my bank account,Billing Issue
+994,OTP is not being received for login,Technical Problem
+995,When will my shoes be shipped?,Order Status
+996,Can I schedule delivery at a specific time?,General Query
+997,Refund initiated but not reflecting in my bank account,Billing Issue
+998,OTP is not being received for login,Technical Problem
+999,My tracking ID shows delivered but I did not get the package,Order Status
+1000,Do you deliver to small towns in Tamil Nadu?,General Query
+1001,Cashback not applied to my wallet,Billing Issue
+1002,App crashes whenever I try to add product to cart,Technical Problem
+1003,Delivery person cancelled delivery without calling,Order Status
+1004,Is installation free for appliances?,General Query
+1005,Payment deducted but not showing in order history,Billing Issue
+1006,Search bar not returning correct results,Technical Problem
+1007,When will my laptop be delivered?,Order Status
+1008,What are your customer support working hours?,General Query
+1009,Payment deducted but not showing in order history,Billing Issue
+1010,App crashes whenever I try to add product to cart,Technical Problem
+1011,Delivery person cancelled delivery without calling,Order Status
+1012,Do you have a return pickup service in my area?,General Query
+1013,Refund initiated but not visible in my bank account,Billing Issue
+1014,Product images not loading properly,Technical Problem
+1015,When will my laptop be delivered?,Order Status
+1016,Do you have international delivery service?,General Query
+1017,Wrong bill generated for my purchase,Billing Issue
+1018,Unable to update my address on the website,Technical Problem
+1019,Courier partner is not responding,Order Status
+1020,What are your customer support working hours?,General Query
+1021,Wrong bill generated for my purchase,Billing Issue
+1022,Unable to login with correct password,Technical Problem
+1023,When will my laptop be delivered?,Order Status
+1024,Do you have a return pickup service in my area?,General Query
+1025,Transaction failed but amount deducted,Billing Issue
+1026,Technical error while adding payment method,Technical Problem
+1027,Delivery person cancelled delivery without calling,Order Status
+1028,What are your customer support working hours?,General Query
+1029,Payment deducted but not showing in order history,Billing Issue
+1030,Product images not loading properly,Technical Problem
+1031,Tracking ID is not updating,Order Status
+1032,Do you have a return pickup service in my area?,General Query
+1033,I was billed twice for the same product,Billing Issue
+1034,App freezing during checkout process,Technical Problem
+1035,Order delayed without any reason,Order Status
+1036,Can I change my delivery address after placing order?,General Query
+1037,Unable to use my coupon for discount,Billing Issue
+1038,Website not working on my browser,Technical Problem
+1039,Delivery person cancelled delivery without calling,Order Status
+1040,How to redeem Flipkart SuperCoins?,General Query
+1041,Why am I charged for delivery when it was free earlier?,Billing Issue
+1042,Technical error while adding payment method,Technical Problem
+1043,Order shows delivered but I have not received it,Order Status
+1044,Do you offer gift wrapping services?,General Query
+1045,Refund initiated but not visible in my bank account,Billing Issue
+1046,App crashes whenever I try to add product to cart,Technical Problem
+1047,Delivery date changed without notice,Order Status
+1048,Do you offer gift wrapping services?,General Query
+1049,Payment deducted but not showing in order history,Billing Issue
+1050,Unable to login with correct password,Technical Problem
+1051,When will my laptop be delivered?,Order Status
+1052,Do you have a return pickup service in my area?,General Query
+1053,Extra delivery fee charged unexpectedly,Billing Issue
+1054,Unable to update my address on the website,Technical Problem
+1055,Tracking ID is not updating,Order Status
+1056,Do you offer gift wrapping services?,General Query
+1057,Extra delivery fee charged unexpectedly,Billing Issue
+1058,Unable to update my address on the website,Technical Problem
+1059,Courier partner is not responding,Order Status
+1060,What are your customer support working hours?,General Query
+1061,Payment deducted but not showing in order history,Billing Issue
+1062,Unable to update my address on the website,Technical Problem
+1063,Order delayed without any reason,Order Status
+1064,Do you have a return pickup service in my area?,General Query
+1065,Refund initiated but not visible in my bank account,Billing Issue
+1066,Unable to login with correct password,Technical Problem
+1067,Order shows delivered but I have not received it,Order Status
+1068,How to join Flipkart Plus?,General Query
+1069,Wrong bill generated for my purchase,Billing Issue
+1070,Unable to update my address on the website,Technical Problem
+1071,Package is taking longer than expected,Order Status
+1072,How do I update my registered phone number?,General Query
+1073,Unable to use my coupon for discount,Billing Issue
+1074,Search bar not returning correct results,Technical Problem
+1075,Delivery date changed without notice,Order Status
+1076,Do you have a return pickup service in my area?,General Query
+1077,Payment deducted but not showing in order history,Billing Issue
+1078,Search bar not returning correct results,Technical Problem
+1079,Package is taking longer than expected,Order Status
+1080,Is there any membership discount for students?,General Query
+1081,Wrong bill generated for my purchase,Billing Issue
+1082,Error code displayed while applying promo code,Technical Problem
+1083,When will my laptop be delivered?,Order Status
+1084,Is there any membership discount for students?,General Query
+1085,Transaction failed but amount deducted,Billing Issue
+1086,Error code displayed while applying promo code,Technical Problem
+1087,When will my laptop be delivered?,Order Status
+1088,Is installation free for appliances?,General Query
+1089,Cashback not applied to my wallet,Billing Issue
+1090,Payment page keeps loading infinitely,Technical Problem
+1091,Order delayed without any reason,Order Status
+1092,Can I change my delivery address after placing order?,General Query
+1093,Extra delivery fee charged unexpectedly,Billing Issue
+1094,Error code displayed while applying promo code,Technical Problem
+1095,Courier partner is not responding,Order Status
+1096,How to join Flipkart Plus?,General Query
+1097,Transaction failed but amount deducted,Billing Issue
+1098,App crashes whenever I try to add product to cart,Technical Problem
+1099,Order delayed without any reason,Order Status
+1100,What are your customer support working hours?,General Query
+1101,Refund is still not processed after cancellation,Billing Issue
+1102,App freezing during checkout process,Technical Problem
+1103,Package is taking longer than expected,Order Status
+1104,Can I change my delivery address after placing order?,General Query
+1105,Payment deducted but not showing in order history,Billing Issue
+1106,Product images not loading properly,Technical Problem
+1107,Delivery person cancelled delivery without calling,Order Status
+1108,Is installation free for appliances?,General Query
+1109,Wrong bill generated for my purchase,Billing Issue
+1110,Technical error while adding payment method,Technical Problem
+1111,Order status not updated since last week,Order Status
+1112,Do you offer gift wrapping services?,General Query
+1113,Transaction failed but amount deducted,Billing Issue
+1114,Unable to update my address on the website,Technical Problem
+1115,When will my laptop be delivered?,Order Status
+1116,Is installation free for appliances?,General Query
+1117,Refund is still not processed after cancellation,Billing Issue
+1118,Error code displayed while applying promo code,Technical Problem
+1119,Delivery person cancelled delivery without calling,Order Status
+1120,Do you have international delivery service?,General Query
+1121,Payment deducted but not showing in order history,Billing Issue
+1122,Search bar not returning correct results,Technical Problem
+1123,Delivery person cancelled delivery without calling,Order Status
+1124,What are your customer support working hours?,General Query
+1125,Wrong bill generated for my purchase,Billing Issue
+1126,Technical error while adding payment method,Technical Problem
+1127,Delivery date changed without notice,Order Status
+1128,Is installation free for appliances?,General Query
+1129,Unable to use my coupon for discount,Billing Issue
+1130,Error code displayed while applying promo code,Technical Problem
+1131,Delivery person cancelled delivery without calling,Order Status
+1132,Do you have a return pickup service in my area?,General Query
+1133,Cashback not applied to my wallet,Billing Issue
+1134,Error code displayed while applying promo code,Technical Problem
+1135,Shipment stuck at warehouse,Order Status
+1136,Do you offer gift wrapping services?,General Query
+1137,Unable to use my coupon for discount,Billing Issue
+1138,Error code displayed while applying promo code,Technical Problem
+1139,Package is taking longer than expected,Order Status
+1140,Is there any membership discount for students?,General Query
+1141,Cashback not applied to my wallet,Billing Issue
+1142,Unable to update my address on the website,Technical Problem
+1143,Order status not updated since last week,Order Status
+1144,Is there any membership discount for students?,General Query
+1145,Extra delivery fee charged unexpectedly,Billing Issue
+1146,Error code displayed while applying promo code,Technical Problem
+1147,When will my laptop be delivered?,Order Status
+1148,Is installation free for appliances?,General Query
+1149,Cashback not applied to my wallet,Billing Issue
+1150,App crashes whenever I try to add product to cart,Technical Problem
+1151,Tracking ID is not updating,Order Status
+1152,Is installation free for appliances?,General Query
+1153,Payment deducted but not showing in order history,Billing Issue
+1154,Product images not loading properly,Technical Problem
+1155,Courier partner is not responding,Order Status
+1156,How do I update my registered phone number?,General Query
+1157,Payment deducted but not showing in order history,Billing Issue
+1158,Unable to login with correct password,Technical Problem
+1159,Order shows delivered but I have not received it,Order Status
+1160,Can I change my delivery address after placing order?,General Query
+1161,Transaction failed but amount deducted,Billing Issue
+1162,App freezing during checkout process,Technical Problem
+1163,Order delayed without any reason,Order Status
+1164,How to redeem Flipkart SuperCoins?,General Query
+1165,Extra delivery fee charged unexpectedly,Billing Issue
+1166,Search bar not returning correct results,Technical Problem
+1167,Order shows delivered but I have not received it,Order Status
+1168,What are your customer support working hours?,General Query
+1169,Why am I charged for delivery when it was free earlier?,Billing Issue
+1170,Unable to update my address on the website,Technical Problem
+1171,Delivery person cancelled delivery without calling,Order Status
+1172,Is there any membership discount for students?,General Query
+1173,Unable to use my coupon for discount,Billing Issue
+1174,Website not working on my browser,Technical Problem
+1175,Order status not updated since last week,Order Status
+1176,Do you offer gift wrapping services?,General Query
+1177,Refund is still not processed after cancellation,Billing Issue
+1178,Technical error while adding payment method,Technical Problem
+1179,Order status not updated since last week,Order Status
+1180,Is installation free for appliances?,General Query
+1181,Why am I charged for delivery when it was free earlier?,Billing Issue
+1182,Unable to login with correct password,Technical Problem
+1183,Order delayed without any reason,Order Status
+1184,Can I change my delivery address after placing order?,General Query
+1185,Transaction failed but amount deducted,Billing Issue
+1186,Website not working on my browser,Technical Problem
+1187,Delivery date changed without notice,Order Status
+1188,Is there any membership discount for students?,General Query
+1189,Why am I charged for delivery when it was free earlier?,Billing Issue
+1190,Error code displayed while applying promo code,Technical Problem
+1191,When will my laptop be delivered?,Order Status
+1192,How do I update my registered phone number?,General Query
+1193,Payment deducted but not showing in order history,Billing Issue
+1194,Unable to update my address on the website,Technical Problem
+1195,Courier partner is not responding,Order Status
+1196,Do you have international delivery service?,General Query
+1197,Why am I charged for delivery when it was free earlier?,Billing Issue
+1198,Payment page keeps loading infinitely,Technical Problem
+1199,Delivery person cancelled delivery without calling,Order Status
+1200,Is installation free for appliances?,General Query
+1201,Unable to use my coupon for discount,Billing Issue
+1202,Product images not loading properly,Technical Problem
+1203,Order shows delivered but I have not received it,Order Status
+1204,Is there any membership discount for students?,General Query
+1205,I was billed twice for the same product,Billing Issue
+1206,Payment page keeps loading infinitely,Technical Problem
+1207,When will my laptop be delivered?,Order Status
+1208,How do I update my registered phone number?,General Query
+1209,Unable to use my coupon for discount,Billing Issue
+1210,Website not working on my browser,Technical Problem
+1211,Shipment stuck at warehouse,Order Status
+1212,Do you offer gift wrapping services?,General Query
+1213,Extra delivery fee charged unexpectedly,Billing Issue
+1214,App crashes whenever I try to add product to cart,Technical Problem
+1215,Shipment stuck at warehouse,Order Status
+1216,Do you offer gift wrapping services?,General Query
+1217,Payment deducted but not showing in order history,Billing Issue
+1218,Payment page keeps loading infinitely,Technical Problem
+1219,When will my laptop be delivered?,Order Status
+1220,What are your customer support working hours?,General Query
+1221,Payment deducted but not showing in order history,Billing Issue
+1222,Website not working on my browser,Technical Problem
+1223,Order status not updated since last week,Order Status
+1224,Do you have international delivery service?,General Query
+1225,I was billed twice for the same product,Billing Issue
+1226,Product images not loading properly,Technical Problem
+1227,Tracking ID is not updating,Order Status
+1228,Do you have international delivery service?,General Query
+1229,I was billed twice for the same product,Billing Issue
+1230,Error code displayed while applying promo code,Technical Problem
+1231,Tracking ID is not updating,Order Status
+1232,Can I change my delivery address after placing order?,General Query
+1233,Refund is still not processed after cancellation,Billing Issue
+1234,Unable to login with correct password,Technical Problem
+1235,Order status not updated since last week,Order Status
+1236,Can I change my delivery address after placing order?,General Query
+1237,Refund initiated but not visible in my bank account,Billing Issue
+1238,App crashes whenever I try to add product to cart,Technical Problem
+1239,Delivery date changed without notice,Order Status
+1240,Is installation free for appliances?,General Query
+1241,Extra delivery fee charged unexpectedly,Billing Issue
+1242,Product images not loading properly,Technical Problem
+1243,Order status not updated since last week,Order Status
+1244,Can I change my delivery address after placing order?,General Query
+1245,Transaction failed but amount deducted,Billing Issue
+1246,Search bar not returning correct results,Technical Problem
+1247,Shipment stuck at warehouse,Order Status
+1248,How to join Flipkart Plus?,General Query
+1249,Cashback not applied to my wallet,Billing Issue
+1250,Product images not loading properly,Technical Problem
+1251,Order shows delivered but I have not received it,Order Status
+1252,How to join Flipkart Plus?,General Query
+1253,Refund is still not processed after cancellation,Billing Issue
+1254,Product images not loading properly,Technical Problem
+1255,Delivery date changed without notice,Order Status
+1256,How to redeem Flipkart SuperCoins?,General Query
+1257,Transaction failed but amount deducted,Billing Issue
+1258,App crashes whenever I try to add product to cart,Technical Problem
+1259,Delivery date changed without notice,Order Status
+1260,How to redeem Flipkart SuperCoins?,General Query
+1261,Unable to use my coupon for discount,Billing Issue
+1262,Product images not loading properly,Technical Problem
+1263,Order delayed without any reason,Order Status
+1264,How to redeem Flipkart SuperCoins?,General Query
+1265,Transaction failed but amount deducted,Billing Issue
+1266,Error code displayed while applying promo code,Technical Problem
+1267,Delivery person cancelled delivery without calling,Order Status
+1268,What are your customer support working hours?,General Query
+1269,Extra delivery fee charged unexpectedly,Billing Issue
+1270,Error code displayed while applying promo code,Technical Problem
+1271,When will my laptop be delivered?,Order Status
+1272,How do I update my registered phone number?,General Query
+1273,Extra delivery fee charged unexpectedly,Billing Issue
+1274,Error code displayed while applying promo code,Technical Problem
+1275,Order delayed without any reason,Order Status
+1276,Do you have international delivery service?,General Query
+1277,Extra delivery fee charged unexpectedly,Billing Issue
+1278,Payment page keeps loading infinitely,Technical Problem
+1279,Order delayed without any reason,Order Status
+1280,How do I update my registered phone number?,General Query
+1281,Transaction failed but amount deducted,Billing Issue
+1282,Website not working on my browser,Technical Problem
+1283,Order delayed without any reason,Order Status
+1284,Do you offer gift wrapping services?,General Query
+1285,Transaction failed but amount deducted,Billing Issue
+1286,App crashes whenever I try to add product to cart,Technical Problem
+1287,Order shows delivered but I have not received it,Order Status
+1288,How to redeem Flipkart SuperCoins?,General Query
+1289,Transaction failed but amount deducted,Billing Issue
+1290,Product images not loading properly,Technical Problem
+1291,Order shows delivered but I have not received it,Order Status
+1292,How to join Flipkart Plus?,General Query
+1293,I was billed twice for the same product,Billing Issue
+1294,App freezing during checkout process,Technical Problem
+1295,Order shows delivered but I have not received it,Order Status
+1296,Is there any membership discount for students?,General Query
+1297,Refund is still not processed after cancellation,Billing Issue
+1298,App crashes whenever I try to add product to cart,Technical Problem
+1299,When will my laptop be delivered?,Order Status
+1300,Do you have international delivery service?,General Query
+1301,Unable to use my coupon for discount,Billing Issue
+1302,Technical error while adding payment method,Technical Problem
+1303,Delivery person cancelled delivery without calling,Order Status
+1304,How do I update my registered phone number?,General Query
+1305,Transaction failed but amount deducted,Billing Issue
+1306,Unable to login with correct password,Technical Problem
+1307,Package is taking longer than expected,Order Status
+1308,Do you have international delivery service?,General Query
+1309,Refund initiated but not visible in my bank account,Billing Issue
+1310,Unable to update my address on the website,Technical Problem
+1311,Order shows delivered but I have not received it,Order Status
+1312,How to redeem Flipkart SuperCoins?,General Query
+1313,Wrong bill generated for my purchase,Billing Issue
+1314,App crashes whenever I try to add product to cart,Technical Problem
+1315,When will my laptop be delivered?,Order Status
+1316,Do you have international delivery service?,General Query
+1317,Payment deducted but not showing in order history,Billing Issue
+1318,Product images not loading properly,Technical Problem
+1319,Order delayed without any reason,Order Status
+1320,How to redeem Flipkart SuperCoins?,General Query
+1321,Transaction failed but amount deducted,Billing Issue
+1322,Product images not loading properly,Technical Problem
+1323,Delivery person cancelled delivery without calling,Order Status
+1324,Do you have international delivery service?,General Query
+1325,Cashback not applied to my wallet,Billing Issue
+1326,App crashes whenever I try to add product to cart,Technical Problem
+1327,Delivery date changed without notice,Order Status
+1328,Can I change my delivery address after placing order?,General Query
+1329,Unable to use my coupon for discount,Billing Issue
+1330,Website not working on my browser,Technical Problem
+1331,Tracking ID is not updating,Order Status
+1332,Can I change my delivery address after placing order?,General Query
+1333,Transaction failed but amount deducted,Billing Issue
+1334,Technical error while adding payment method,Technical Problem
+1335,Order shows delivered but I have not received it,Order Status
+1336,How do I update my registered phone number?,General Query
+1337,Unable to use my coupon for discount,Billing Issue
+1338,Website not working on my browser,Technical Problem
+1339,Shipment stuck at warehouse,Order Status
+1340,What are your customer support working hours?,General Query
+1341,Payment deducted but not showing in order history,Billing Issue
+1342,Payment page keeps loading infinitely,Technical Problem
+1343,Tracking ID is not updating,Order Status
+1344,Do you offer gift wrapping services?,General Query
+1345,Wrong bill generated for my purchase,Billing Issue
+1346,Error code displayed while applying promo code,Technical Problem
+1347,Package is taking longer than expected,Order Status
+1348,How to redeem Flipkart SuperCoins?,General Query
+1349,Cashback not applied to my wallet,Billing Issue
+1350,App crashes whenever I try to add product to cart,Technical Problem
+1351,Order status not updated since last week,Order Status
+1352,Is installation free for appliances?,General Query
+1353,Unable to use my coupon for discount,Billing Issue
+1354,Product images not loading properly,Technical Problem
+1355,Courier partner is not responding,Order Status
+1356,Do you have international delivery service?,General Query
+1357,Unable to use my coupon for discount,Billing Issue
+1358,Payment page keeps loading infinitely,Technical Problem
+1359,Delivery person cancelled delivery without calling,Order Status
+1360,Do you offer gift wrapping services?,General Query
+1361,Unable to use my coupon for discount,Billing Issue
+1362,Search bar not returning correct results,Technical Problem
+1363,Tracking ID is not updating,Order Status
+1364,Is installation free for appliances?,General Query
+1365,Extra delivery fee charged unexpectedly,Billing Issue
+1366,Unable to login with correct password,Technical Problem
+1367,Order shows delivered but I have not received it,Order Status
+1368,Is installation free for appliances?,General Query
+1369,I was billed twice for the same product,Billing Issue
+1370,App freezing during checkout process,Technical Problem
+1371,Order status not updated since last week,Order Status
+1372,How to redeem Flipkart SuperCoins?,General Query
+1373,Cashback not applied to my wallet,Billing Issue
+1374,Payment page keeps loading infinitely,Technical Problem
+1375,Package is taking longer than expected,Order Status
+1376,What are your customer support working hours?,General Query
+1377,Refund is still not processed after cancellation,Billing Issue
+1378,Website not working on my browser,Technical Problem
+1379,Delivery person cancelled delivery without calling,Order Status
+1380,Do you have international delivery service?,General Query
+1381,I was billed twice for the same product,Billing Issue
+1382,App crashes whenever I try to add product to cart,Technical Problem
+1383,Courier partner is not responding,Order Status
+1384,How to join Flipkart Plus?,General Query
+1385,Refund is still not processed after cancellation,Billing Issue
+1386,Website not working on my browser,Technical Problem
+1387,Order delayed without any reason,Order Status
+1388,Do you have a return pickup service in my area?,General Query
+1389,Refund initiated but not visible in my bank account,Billing Issue
+1390,Technical error while adding payment method,Technical Problem
+1391,Package is taking longer than expected,Order Status
+1392,Is installation free for appliances?,General Query
+1393,Extra delivery fee charged unexpectedly,Billing Issue
+1394,Technical error while adding payment method,Technical Problem
+1395,Tracking ID is not updating,Order Status
+1396,How to redeem Flipkart SuperCoins?,General Query
+1397,Unable to use my coupon for discount,Billing Issue
+1398,Website not working on my browser,Technical Problem
+1399,Tracking ID is not updating,Order Status
+1400,What are your customer support working hours?,General Query
+1401,Why am I charged for delivery when it was free earlier?,Billing Issue
+1402,Technical error while adding payment method,Technical Problem
+1403,Order status not updated since last week,Order Status
+1404,What are your customer support working hours?,General Query
+1405,Extra delivery fee charged unexpectedly,Billing Issue
+1406,Unable to login with correct password,Technical Problem
+1407,Delivery person cancelled delivery without calling,Order Status
+1408,Can I change my delivery address after placing order?,General Query
+1409,Unable to use my coupon for discount,Billing Issue
+1410,Error code displayed while applying promo code,Technical Problem
+1411,Order status not updated since last week,Order Status
+1412,Do you offer gift wrapping services?,General Query
+1413,Why am I charged for delivery when it was free earlier?,Billing Issue
+1414,Unable to login with correct password,Technical Problem
+1415,Shipment stuck at warehouse,Order Status
+1416,Do you have a return pickup service in my area?,General Query
+1417,Why am I charged for delivery when it was free earlier?,Billing Issue
+1418,Product images not loading properly,Technical Problem
+1419,Shipment stuck at warehouse,Order Status
+1420,Is there any membership discount for students?,General Query
+1421,Wrong bill generated for my purchase,Billing Issue
+1422,App freezing during checkout process,Technical Problem
+1423,Courier partner is not responding,Order Status
+1424,Is there any membership discount for students?,General Query
+1425,Extra delivery fee charged unexpectedly,Billing Issue
+1426,Technical error while adding payment method,Technical Problem
+1427,Delivery person cancelled delivery without calling,Order Status
+1428,Can I change my delivery address after placing order?,General Query
+1429,Payment deducted but not showing in order history,Billing Issue
+1430,Error code displayed while applying promo code,Technical Problem
+1431,Courier partner is not responding,Order Status
+1432,What are your customer support working hours?,General Query
+1433,Wrong bill generated for my purchase,Billing Issue
+1434,Search bar not returning correct results,Technical Problem
+1435,When will my laptop be delivered?,Order Status
+1436,How to redeem Flipkart SuperCoins?,General Query
+1437,Refund is still not processed after cancellation,Billing Issue
+1438,Website not working on my browser,Technical Problem
+1439,When will my laptop be delivered?,Order Status
+1440,Do you have a return pickup service in my area?,General Query
+1441,Unable to use my coupon for discount,Billing Issue
+1442,Unable to login with correct password,Technical Problem
+1443,Order status not updated since last week,Order Status
+1444,Do you have international delivery service?,General Query
+1445,Extra delivery fee charged unexpectedly,Billing Issue
+1446,Product images not loading properly,Technical Problem
+1447,Package is taking longer than expected,Order Status
+1448,How do I update my registered phone number?,General Query
+1449,Why am I charged for delivery when it was free earlier?,Billing Issue
+1450,Unable to update my address on the website,Technical Problem
+1451,Courier partner is not responding,Order Status
+1452,What are your customer support working hours?,General Query
+1453,Cashback not applied to my wallet,Billing Issue
+1454,App crashes whenever I try to add product to cart,Technical Problem
+1455,Order delayed without any reason,Order Status
+1456,How to redeem Flipkart SuperCoins?,General Query
+1457,Why am I charged for delivery when it was free earlier?,Billing Issue
+1458,Product images not loading properly,Technical Problem
+1459,Order delayed without any reason,Order Status
+1460,How to redeem Flipkart SuperCoins?,General Query
+1461,I was billed twice for the same product,Billing Issue
+1462,Error code displayed while applying promo code,Technical Problem
+1463,Shipment stuck at warehouse,Order Status
+1464,How to redeem Flipkart SuperCoins?,General Query
+1465,Why am I charged for delivery when it was free earlier?,Billing Issue
+1466,Unable to update my address on the website,Technical Problem
+1467,Order delayed without any reason,Order Status
+1468,How to redeem Flipkart SuperCoins?,General Query
+1469,I was billed twice for the same product,Billing Issue
+1470,App crashes whenever I try to add product to cart,Technical Problem
+1471,Delivery person cancelled delivery without calling,Order Status
+1472,How do I update my registered phone number?,General Query
+1473,Cashback not applied to my wallet,Billing Issue
+1474,Error code displayed while applying promo code,Technical Problem
+1475,Package is taking longer than expected,Order Status
+1476,Do you have a return pickup service in my area?,General Query
+1477,Why am I charged for delivery when it was free earlier?,Billing Issue
+1478,Payment page keeps loading infinitely,Technical Problem
+1479,Shipment stuck at warehouse,Order Status
+1480,What are your customer support working hours?,General Query
+1481,Wrong bill generated for my purchase,Billing Issue
+1482,Product images not loading properly,Technical Problem
+1483,Delivery date changed without notice,Order Status
+1484,What are your customer support working hours?,General Query
+1485,Refund initiated but not visible in my bank account,Billing Issue
+1486,Search bar not returning correct results,Technical Problem
+1487,Package is taking longer than expected,Order Status
+1488,How to redeem Flipkart SuperCoins?,General Query
+1489,Cashback not applied to my wallet,Billing Issue
+1490,App freezing during checkout process,Technical Problem
+1491,Shipment stuck at warehouse,Order Status
+1492,How do I update my registered phone number?,General Query
+1493,Transaction failed but amount deducted,Billing Issue
+1494,App freezing during checkout process,Technical Problem
+1495,Delivery person cancelled delivery without calling,Order Status
+1496,How do I update my registered phone number?,General Query
+1497,Refund is still not processed after cancellation,Billing Issue
+1498,Search bar not returning correct results,Technical Problem
+1499,Tracking ID is not updating,Order Status
+1500,Do you have international delivery service?,General Query
+1501,['Wherefore was extra pitch kick added?'],Billing Issue
+1502,['Why represent extra delivery kick bestow?'],Billing Issue
+1503,['Ineffective to update my visibility in the app'],Technical Problem
+1504,['Unable to update my visibility in the app'],Technical Problem
+1505,['Unable to update my profile in the app'],Technical Problem
+1506,['Courier details be not update'],Order Status
+1507,['Courier details be non updating'],Order Status
+1508,['Courier details be non updating'],Order Status
+1509,['What make up your customer care work hr?'],General Query
+1510,['What embody your customer care ferment hours?'],General Query
+1511,['What are your client care working hours?'],General Query
+1512,['I was rouse twice for my social club'],Billing Issue
+1513,['I be bill twice for my order'],Billing Issue
+1514,['I personify charge double for my order'],Billing Issue
+1515,['OTP is not be pick up for login'],Technical Problem
+1516,['OTP be non being received for login'],Technical Problem
+1517,['OTP is not be receive for login'],Technical Problem
+1518,['How fire I track my current rules of order?'],Order Status
+1519,['How can Ane cross my current order?'],Order Status
+1520,['How can I track my current society?'],Order Status
+1521,['Is thither any bookman discount uncommitted?'],General Query
+1522,['Be there any student deduction uncommitted?'],General Query
+1523,['Be there any educatee discount uncommitted?'],General Query
+1524,['Transaction go wrong just balance deducted from my account'],Billing Issue
+1525,['Dealing go wrong but correspondence deducted from my account'],Billing Issue
+1526,['Dealings failed but balance deducted from my story'],Billing Issue
+1527,['Website stick at payment page'],Technical Problem
+1528,['Internet site stuck at defrayal page'],Technical Problem
+1529,['Website bond at payment pageboy'],Technical Problem
+1530,['Wherefore is my legal transfer engagement postponed?'],Order Status
+1531,['Why follow my pitch date shelve?'],Order Status
+1532,['Wherefore is my delivery escort postponed?'],Order Status
+1533,['How do I check my Flipkart SuperCoins libra the balance?'],General Query
+1534,['How do I check my Flipkart SuperCoins counterbalance?'],General Query
+1535,['How do Single mark off my Flipkart SuperCoins balance?'],General Query
+1536,['Refund initiated just non reflecting in my bank account'],Billing Issue
+1537,['Refund initiated but not reverberate in my bank account'],Billing Issue
+1538,['Repayment initiated but not reverberate in my bank invoice'],Billing Issue
+1539,['Website non loading on my laptop'],Technical Problem
+1540,['Internet site not loading on my laptop'],Technical Problem
+1541,['Internet site not load on my laptop'],Technical Problem
+1542,['Seat Single schedule delivery at a specific time?'],General Query
+1543,['Crapper I schedule delivery at a specific fourth dimension?'],General Query
+1544,['Nates One schedule delivery at a specific time?'],General Query
+1545,['Search routine non working properly'],Technical Problem
+1546,['Search mapping not puzzle out properly'],Technical Problem
+1547,['Search function non working in good order'],Technical Problem
+1548,['Cashback not credit to my wallet'],Billing Issue
+1549,['Cashback not credit to my wallet'],Billing Issue
+1550,['Cashback non credited to my wallet'],Billing Issue
+1551,['Estimated deliverance restrain changing'],Order Status
+1552,['Judge rescue keeps changing'],Order Status
+1553,['Estimated delivery keep back convert'],Order Status
+1554,['Do you offer gift enfold inspection and repair?'],General Query
+1555,['Do you offer present enwrap serve?'],General Query
+1556,['Do you offer gift twine robert william service?'],General Query
+1557,['Defrayal gateway mistake during checkout'],Billing Issue
+1558,['Defrayal gateway error during checkout'],Billing Issue
+1559,['Payment gateway error during check'],Billing Issue
+1560,['App show error while placing order'],Technical Problem
+1561,['App shows error while placing fiat'],Technical Problem
+1562,['App shows error while placing edict'],Technical Problem
+1563,['My tracking idaho display delivered but I serve not get the bundle'],Order Status
+1564,['My track ID shows delivered but I do non get the package'],Order Status
+1565,['My cover ID show delivered only I behave not get the package'],Order Status
+1566,['How practise Iodine change my registered speech sound number?'],General Query
+1567,['How do 1 change my registered phone numeral?'],General Query
+1568,['How do I change my registered sound number?'],General Query
+1569,['My EMI payment break down only money was debited'],Billing Issue
+1570,['My EMI requital run out but money was debited'],Billing Issue
+1571,['My EMI payment failed but money was debit'],Billing Issue
+1572,['Go cart be not update when I add items'],Technical Problem
+1573,['Pushcart is non updating when I sum items'],Technical Problem
+1574,['Cart be not updating when I add item'],Technical Problem
+1575,['When will my shoe be shipped?'],Order Status
+1576,['When volition my shoes be ship?'],Order Status
+1577,['When testament my shoes be ship?'],Order Status
+1578,['Wherefore am I encounter wrong invoice amount in my invoice?'],Billing Issue
+1579,['Why am 1 ascertain wrong placard amount of money in my invoice?'],Billing Issue
+1580,['Wherefore am I seeing wrong broadsheet sum in my bill?'],Billing Issue
+1581,['Answer you hand over to small towns in Tamil Nadu?'],General Query
+1582,['Serve you give birth to small towns in Tamil Nadu?'],General Query
+1583,['Set you deliver to small towns in Tamil Nadu?'],General Query
+1584,['Where is my mobile order? It be stay'],Order Status
+1585,['Where is my roving order? It live delayed'],Order Status
+1586,['Where be my nomadic order? It cost delayed'],Order Status
+1587,['What is Flipkart Plus rank?'],General Query
+1588,['What comprise Flipkart Plus rank?'],General Query
+1589,['What exist Flipkart Plus membership?'],General Query
+1590,['Arrange you provide installation service for appliances?'],General Query
+1591,['Do you furnish installation service for gizmo?'],General Query
+1592,['Come you provide installation service for contraption?'],General Query
+1593,['Login varlet continue refreshing automatically'],Technical Problem
+1594,['Login page observe refreshing mechanically'],Technical Problem
+1595,['Login varlet keeps freshen automatically'],Technical Problem
+1596,['Package is in transportation system for too recollective'],Order Status
+1597,['Package is in transit for to a fault farseeing'],Order Status
+1598,['Package is in theodolite for likewise prospicient'],Order Status
+1599,['Defrayment deducted but order not reassert'],Billing Issue
+1600,['Payment deducted merely order not confirm'],Billing Issue
+1601,['Payment deducted but order non reassert'],Billing Issue
+1602,['The Flipkart app crashes on checkout'],Technical Problem
+1603,['The Flipkart app crashes on checkout'],Technical Problem
+1604,['The Flipkart app clank on checkout'],Technical Problem
+1605,['Order lodge at warehouse for 3 day'],Order Status
+1606,['Order stuck at storage warehouse for 3 days'],Order Status
+1607,['Order stuck at storage warehouse for three day'],Order Status
+1608,['I cannot login with my mobile phone number'],Technical Problem
+1609,['One cannot login with my mobile act'],Technical Problem
+1610,['I cannot login with my fluid number'],Technical Problem
+1611,['Delivery agent marked order fork over merely I did non receive information technology'],Order Status
+1612,['Bringing agent marked order fork up but Single did not get it'],Order Status
+1613,['Delivery agent tick off order delivered but I do non receive information technology'],Order Status
+1614,['How can Iodin turn a Flipkart Plus fellow member?'],General Query
+1615,['How lavatory Ace suit a Flipkart Plus member?'],General Query
+1616,['How can I become a Flipkart Asset fellow member?'],General Query
+1617,['Refund non yet pick up for cancelled ware'],Billing Issue
+1618,['Refund not so far receive for cancelled merchandise'],Billing Issue
+1619,['Repayment non yet received for cancelled product'],Billing Issue
+1620,['Cashback non applied to my wallet'],Billing Issue
+1621,['Cashback not use to my wallet'],Billing Issue
+1622,['Cashback not applied to my pocketbook'],Billing Issue
+1623,['App clangour whenever I sample to add product to cart'],Technical Problem
+1624,['App crashes whenever I try to bestow product to cart'],Technical Problem
+1625,['App crash whenever I try to tot product to cart'],Technical Problem
+1626,['Delivery person delete delivery without calling'],Order Status
+1627,['Delivery person cancelled delivery without call'],Order Status
+1628,['Delivery person cancelled delivery without call'],Order Status
+1629,['Is installation free for appliances?'],General Query
+1630,['Is installation detached for appliances?'],General Query
+1631,['Be installation free for appliances?'],General Query
+1632,['Defrayment infer but not showing in decree history'],Billing Issue
+1633,['Payment infer only non showing in order history'],Billing Issue
+1634,['Payment deduct but non showing in order history'],Billing Issue
+1635,['Search browning automatic rifle not returning right results'],Technical Problem
+1636,['Hunting measure not returning correct results'],Technical Problem
+1637,['Lookup bar non returning correct results'],Technical Problem
+1638,['When will my laptop be delivered?'],Order Status
+1639,['When bequeath my laptop constitute delivered?'],Order Status
+1640,['When testament my laptop be delivered?'],Order Status
+1641,['What are your client accompaniment working time of day?'],General Query
+1642,['What are your customer backup working hour?'],General Query
+1643,['What are your client support working hour?'],General Query
+1644,['Do you take in a return tone arm service in my sphere?'],General Query
+1645,['Answer you have a coming back pickup servicing in my sphere?'],General Query
+1646,['Do you take a return pickup religious service in my orbit?'],General Query
+1647,['Refund initiated only not visible in my bank building account'],Billing Issue
+1648,['Repayment initiated but non seeable in my bank account'],Billing Issue
+1649,['Refund initiated but not visible in my banking company write up'],Billing Issue
+1650,['Product images not load right'],Technical Problem
+1651,['Intersection images not loading in good order'],Technical Problem
+1652,['Product image not loading the right way'],Technical Problem
+1653,['Exercise you possess international delivery military service?'],General Query
+1654,['Do you have external speech service?'],General Query
+1655,['Practise you have outside delivery robert william service?'],General Query
+1656,['Haywire bill generated for my purchase'],Billing Issue
+1657,['Wrong pecker mother for my purchase'],Billing Issue
+1658,['Haywire bill generated for my purchase'],Billing Issue
+1659,['Unable to update my speech on the website'],Technical Problem
+1660,['Ineffectual to update my address on the website'],Technical Problem
+1661,['Unable to update my reference on the web site'],Technical Problem
+1662,['Courier partner be non responding'],Order Status
+1663,['Messenger partner is not respond'],Order Status
+1664,['Messenger partner is non responding'],Order Status
+1665,['Ineffective to login with correct password'],Technical Problem
+1666,['Ineffective to login with correct password'],Technical Problem
+1667,['Ineffectual to login with correct watchword'],Technical Problem
+1668,['Transaction failed but measure recoup'],Billing Issue
+1669,['Transaction failed simply amount deduct'],Billing Issue
+1670,['Dealings failed but amount of money deducted'],Billing Issue
+1671,['Technical error while supply payment method'],Technical Problem
+1672,['Technical error while add defrayal method'],Technical Problem
+1673,['Proficient error while adding payment method'],Technical Problem
+1674,['Give chase ID is non updating'],Order Status
+1675,['Tracking idaho is not update'],Order Status
+1676,['Cut across ID is not update'],Order Status
+1677,['Iodin was bill twice for the same product'],Billing Issue
+1678,['Atomic number 53 was billed twice for the same cartesian product'],Billing Issue
+1679,['I was charge twice for the same mathematical product'],Billing Issue
+1680,['App freeze during checkout cognitive process'],Technical Problem
+1681,['App freezing during checkout unconscious process'],Technical Problem
+1682,['App freezing during checkout outgrowth'],Technical Problem
+1683,['Order delay without any intellect'],Order Status
+1684,['Order hold up without any reason'],Order Status
+1685,['Order delay without any reason'],Order Status
+1686,['Can I change my obstetrical delivery address after localize order?'],General Query
+1687,['Fanny I change my pitch address after placing order?'],General Query
+1688,['Send away I change my deliverance address after come out order?'],General Query
+1689,['Ineffective to expend my coupon for discount'],Billing Issue
+1690,['Ineffectual to use my coupon for discount rate'],Billing Issue
+1691,['Ineffectual to apply my voucher for discount'],Billing Issue
+1692,['Website not wreak on my browser'],Technical Problem
+1693,['Website not working on my web browser'],Technical Problem
+1694,['Web site not working on my browser'],Technical Problem
+1695,['How to pay off Flipkart SuperCoins?'],General Query
+1696,['How to redeem Flipkart SuperCoins?'],General Query
+1697,['How to save Flipkart SuperCoins?'],General Query
+1698,['Wherefore am I charged for delivery when it constitute free other?'],Billing Issue
+1699,['Wherefore am Single charged for saving when it be free earlier?'],Billing Issue
+1700,['Why be I charged for obstetrical delivery when it be free earlier?'],Billing Issue
+1701,['Parliamentary procedure shows birth but I have not received information technology'],Order Status
+1702,['Order of magnitude shows delivered simply I have non received it'],Order Status
+1703,['Order shows deliver just I have not received information technology'],Order Status
+1704,['Serve you extend gift wrapping service?'],General Query
+1705,['Do you offer up gift enclose services?'],General Query
+1706,['Do you declare oneself natural endowment wrap services?'],General Query
+1707,['Legal transfer date changed without notice'],Order Status
+1708,['Delivery date switch without posting'],Order Status
+1709,['Delivery escort changed without notice'],Order Status
+1710,['Extra delivery fee institutionalise unexpectedly'],Billing Issue
+1711,['Extra deliverance fee charged accidentally'],Billing Issue
+1712,['Extra delivery fee charged out of the blue'],Billing Issue
+1713,['How to link Flipkart Plus?'],General Query
+1714,['How to fall in Flipkart Plus?'],General Query
+1715,['How to join Flipkart Plus?'],General Query
+1716,['Bundle is taking foresightful than expected'],Order Status
+1717,['Parcel be taking longer than expected'],Order Status
+1718,['Software is taking longer than expected'],Order Status
+1719,['How do I update my registered speech sound number?'],General Query
+1720,['How serve I update my registered phone number?'],General Query
+1721,['How do I update my registered sound number?'],General Query
+1722,['Personify there any rank discount for bookman?'],General Query
+1723,['Is thither any membership discount for scholarly person?'],General Query
+1724,['Comprise in that location any membership rebate for students?'],General Query
+1725,['Wrongdoing codification displayed while applying promo code'],Technical Problem
+1726,['Fault code displayed while put on promo code'],Technical Problem
+1727,['Error codification displayed while implement promo codification'],Technical Problem
+1728,['Payment varlet dungeon loading infinitely'],Technical Problem
+1729,['Payment page keep load infinitely'],Technical Problem
+1730,['Payment thomas nelson page keeps loading boundlessly'],Technical Problem
+1731,['Refund is all the same not processed after cancellation'],Billing Issue
+1732,['Refund be still not processed after cancellation'],Billing Issue
+1733,['Repayment is nonetheless not processed after cancellation'],Billing Issue
+1734,['Order status non updated since utmost week'],Order Status
+1735,['Order position non updated since last week'],Order Status
+1736,['Lodge position not update since last week'],Order Status
+1737,['Shipment stuck at warehouse'],Order Status
+1738,['Shipment stuck at warehouse'],Order Status
+1739,['Shipment stuck at warehouse'],Order Status
+1740,['Server is down and not responding'],Technical Problem
+1741,['my order is delayed'],Order Status
+1742,['Why follow special pitch charge added?'],Billing Issue
+1743,['how to reset password'],Technical Problem
+1744,['a'],Provide Valid Description
+1745,[''],Provide Valid Description
+1746,['Server is down and not responding'],Technical Problem
+1747,['Server is down and not responding'],Technical Problem
+1748,['Server is down and not responding'],Technical Problem
+1749,['Server is down and not responding'],Technical Problem
+1750,['Server is down and not responding'],Technical Problem
