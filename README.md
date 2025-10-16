@@ -80,7 +80,7 @@ Models trained and compared:
 
 The final model is deployed using **Flask** with a simple **HTML frontend**.
 
-### Steps:
+### Steps to run:
 1. Load the Dataset
 2. Rull all the cells upto Flask App
 3. After creation of a folder called " Frontend  " by executing the code cell add index.html file manually.
