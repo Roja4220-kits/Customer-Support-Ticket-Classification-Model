@@ -81,7 +81,8 @@ Models trained and compared:
 The final model is deployed using **Flask** with a simple **HTML frontend**.
 
 ### Steps to run:
-1. Load the Dataset
-2. Rull all the cells upto Flask App
-3. After creation of a folder called " Frontend  " by executing the code cell add index.html file manually.
-4. Run the Flask app locally
+1. Open the Customer_Support_Ticket_Classification_Model.ipynb file in jupyter notebook.
+2. Load the Dataset
+3. Rull all the cells upto Flask App
+4. After creation of a folder called " Frontend  " by executing the code cell add index.html file manually.
+5. Run the Flask app locally
